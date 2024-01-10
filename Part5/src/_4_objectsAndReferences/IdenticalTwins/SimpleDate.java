@@ -1,6 +1,4 @@
-package _4_objectsAndReferences.Practice;
-
-import java.util.Objects;
+package _4_objectsAndReferences.IdenticalTwins;
 
 public class SimpleDate {
     private int day;
@@ -38,3 +36,4 @@ public class SimpleDate {
         return this.day + "." + this.month + "." + this.year;
     }
 }
+
